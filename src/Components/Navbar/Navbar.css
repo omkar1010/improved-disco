@@ -1,5 +1,4 @@
-.hs-dropdown:hover .hs-dropdown-menu {
-    opacity: 1;
-    transition-delay: 0.3s; /* Adjust the delay time as needed */
-  }
-  
+button:focus {
+  outline: none; 
+  outline: none;
+}
