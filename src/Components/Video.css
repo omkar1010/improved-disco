@@ -1,0 +1,21 @@
+.video-background {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .video-background video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .content {
+    /* Style your content here */
+    position: relative;
+    z-index: 1; /* Ensures content is above the video */
+  }
+  

@@ -1,0 +1,18 @@
+/* src/components/ImageSlider.css */
+
+.slide {
+  opacity: 0.5; /* Set the opacity of inactive slides */
+}
+
+.activeSlide {
+  transform: scale(1.2); /* Scale the active slide */
+  opacity: 1; /* Set the opacity of the active slide to fully visible */
+}
+
+.slideWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Add your styling for arrows here */

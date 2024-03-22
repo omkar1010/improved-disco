@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Poppins:wght@700&family=Source+Sans+3:wght@400;500;700&display=swap');
+
+body {
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+.transform-data-container-wrapper {
+    background-color: rgba(24, 22, 24, 1);
+    gap: 40px;
+}
+
+.transform-data-header {
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 69px;
+    color: rgba(247, 255, 251, 1);
+}
+
+.transform-data-wrapper {
+    padding: 96px 50px 50px 50px
+}
+
+
+
+
+
+
+
+/* Testing */
+
+.tranform-data-container {
+    padding: 40px 18px;
+}
+
+
+.number--text-data-container {
+    display: flex;
+    color: rgba(208, 219, 214, 1);
+    gap: 40px;
+    padding: 32px 0px 32px 0px;
+    border-bottom: 1px solid #41393E;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.number-data {
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 96px;
+    color: rgba(247, 255, 251, 1);
+}
+
+.data-collection-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: flex-start;
+}
+
+.data-collection-header {
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: rgba(247, 255, 251, 1);
+}
+
+
+
+
+/*Why Choose Sceniuz */
+
+.why-sceniouz-header-para-wrapper-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+}
+
+.why-sceniuz-container{
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 700;
+    font-size: 51px;
+    line-height: 60px;
+    text-align: center;
+    color: #F7FFFB;
+}
+
+.why-sceniuz-para-container {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: center;
+    color: #D0DBD6;
+}
+
+
+.custom-analytics-data-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: nowrap;
+    text-align: center;
+    gap: 10px;
+    padding: 30px;
+    background: #06433C;
+}
+
+.card-header-wrapper {
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #F7FFFB;
+}
+
+.card-para-wrapper-container {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #D0DBD6;
+}

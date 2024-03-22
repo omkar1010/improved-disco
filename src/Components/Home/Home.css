@@ -1,0 +1,16 @@
+.data-driven-compo {
+    border: "1px solid green";
+    height: max-content;
+    background-color: "#EEEEEE";
+
+}
+
+.image-service-container {
+    display: flex;
+    background-color: rgb(50, 50, 56);
+    border-radius: 8px;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    gap: 12px;
+    padding: 12px;
+}

@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Poppins:wght@700&family=Source+Sans+3:wght@400;500;700&display=swap');
+body {
+    font-family: 'Source Sans 3', sans-serif !important;
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.data-analytcs-text-header {
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+    text-align: center;
+    color: rgba(209, 0, 0, 1);
+}
+
+.data-analytics-para-container {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26.4px;
+    text-align: center;
+}
+
+.data-analytics-span-content {
+    color: rgba(209, 0, 0, 1);
+
+}
+
+/* Our Services */
+
+.our-service-header {
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 700;
+    font-size: 51px;
+    line-height: 61px;
+    text-align: center;
+
+}
+
+.our-service-journey {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    flex-direction: column;
+}
+
+.our-service-btn-a {
+    width: max-content;
+    background-color: rgb(0, 0, 0);
+    border-radius: 4px;
+    color: inherit;
+    text-decoration: none;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-right: 48px;
+    padding-left: 48px;
+}
+
+.btn-spn-our-service {
+    padding-left: 4px;
+    padding-right: 4px;
+    color: rgb(255, 255, 255);
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: 600;
+}
+
+
+
+
+/* Our Data Analytics Soution */
+
+.business-data-analytics-intelligence-header {
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 44px;
+    text-align: center;
+    color:rgba(247, 255, 251, 1);
+}
+
+.our-data-soultion-range {
+    padding: 24px;
+    display: flex;
+    background-color: rgba(43, 38, 41, 1);
+    width: -webkit-fill-available;
+}
+
+.data-analytics-collection-card-intelligent {
+    padding: 140px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.data-analytics-collection-wrapper {
+    gap: 40px;
+    display: grid;
+}
+
+.data-analytics-process-card-intelligent {
+    padding: 16px 24px 16px 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+}
+
+
+
+/* Power of Data with Sceniuz Data Analytics Solution */
+
+.data-analytics-solution-container {
+    border-top: 4px dashed #263238;
+}
+
+.data-container-wrapper-data-solution {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 45px;
+}
+
+.data-header-analytics-solution {
+    font-family: 'Poppins', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 42px;
+    color: rgba(21, 35, 74, 0.9);
+    text-align: center;
+}
+
+
+.para-data-analytics-container {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 28px;
+    text-align: center;
+    color: #15234A;
+}
